@@ -73,10 +73,11 @@ a live radar visualization on screen with object detection.
 - Real-time data visualization in Processing
 
 ## Photos
-
+![Radar visualization](photos/radar-visualization.jpg)
 ![Full setup](photos/radar-full-setup.jpg)
 ![Wiring close-up](photos/radar-wiring-closeup.jpg)
-![Serial Monitor](photos/radar-serial-monitor.png)
+![Serial Monitor](photos/serial-monitor.jpg)
+![Wiring diagram](photos/wiring-diagram.png)
 =======
 # ultrasonic-radar-arduino
 Ultrasonic radar system built with Arduino Uno, HC-SR04 sensor, and servo motor. Real-time radar visualization over serial communication.
