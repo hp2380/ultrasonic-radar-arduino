@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ultrasonic Radar System
 
 A real-time radar system built with an Arduino Uno, HC-SR04 ultrasonic sensor,
@@ -76,3 +77,7 @@ a live radar visualization on screen with object detection.
 ![Full setup](photos/radar-full-setup.jpg)
 ![Wiring close-up](photos/radar-wiring-closeup.jpg)
 ![Serial Monitor](photos/radar-serial-monitor.png)
+=======
+# ultrasonic-radar-arduino
+Ultrasonic radar system built with Arduino Uno, HC-SR04 sensor, and servo motor. Real-time radar visualization over serial communication.
+>>>>>>> 86937f569c5871d37e4d4271fc939eff00256298
