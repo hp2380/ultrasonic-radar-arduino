@@ -22,7 +22,7 @@ a live radar visualization on screen with object detection.
 
 ## Wiring
 
-![Wiring diagram](photos/fritzing.jpg)
+![Wiring diagram](photos/wiring-diagram.jpg)
 
 | HC-SR04 Pin | Arduino Pin |
 |-------------|-------------|
