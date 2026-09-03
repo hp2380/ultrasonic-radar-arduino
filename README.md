@@ -36,7 +36,7 @@ re-recording the demo. Three fixes went in alongside the mount:
 
 ## Demo
 
-[Watch the demo video](REPLACE_WITH_NEW_YOUTUBE_LINK)
+[Watch the demo video](https://youtu.be/XY77lMngTKQ?si=rzSZ1Kq-MddpgHit)
 
 ![Radar display and rig](photos/screenandradar.jpg)
 
